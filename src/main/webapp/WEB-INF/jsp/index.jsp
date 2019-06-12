@@ -4,9 +4,9 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Page title</title>
+    <title>Strona głowna</title>
 </head>
 <body>
-
+<h1>To jest strona głowna</h1>
 </body>
 </html>
